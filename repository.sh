@@ -31,4 +31,5 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 
 sudo apt-get update -y
 sudo apt-get install -y net-tools
-
+sudo apt install nginx
+echo dela!
